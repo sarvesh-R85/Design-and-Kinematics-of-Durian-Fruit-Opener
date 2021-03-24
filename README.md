@@ -1,0 +1,2 @@
+# Design-and-Kinematics-of-Durian-Fruit-Opener
+a Project on Design and Kinematics of Durian Fruit Opener using CATIA. In this project I have designed a Durian Fruit Opener and I had done the simulation and kinematics of that design and also I had done the structural Analysis of the design that how much force the blade of my design will withstand to open the Durian Fruit. That design was inspired from Umbrella. I have done the design as the inverted umbrella shape.
